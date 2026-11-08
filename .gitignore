@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+snapshots/
+results/
+/tmp/
+snapshots_zip/

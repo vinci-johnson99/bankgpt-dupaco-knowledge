@@ -1,0 +1,5 @@
+# No third-party dependencies.
+#
+# solution.py uses only the Python standard library (re, dataclasses, typing,
+# collections.defaultdict). No LLM, no API key, no network access, and no
+# non-stdlib packages are required to ingest, answer, or find conflicts.
